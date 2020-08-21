@@ -21,7 +21,7 @@
               <td><%= ao["_resolved"]['ref_id'] %></td>
               <td>
                 <%= render_token :object => ao["_resolved"],
-                                 :label => ao["_resolved"]["title"],
+                                 :label => ao["_resolved"]["display_string"],
                                  :type => "archival_object",
                                  :uri => ao["ref"] %>
               </td>
