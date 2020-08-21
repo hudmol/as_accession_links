@@ -1,0 +1,16 @@
+en:
+  accession:
+    component_link: Linked Component
+    component_links: Linked Components
+  component_link:
+    _plural: Component Links
+    _singular: Component Link
+    _frontend:
+      action:
+        add: Add Component Link
+  accession_link:
+    _plural: Accession Links
+    _singular: Accesssion Link
+    _frontend:
+      action:
+        add: Add Accession Link
